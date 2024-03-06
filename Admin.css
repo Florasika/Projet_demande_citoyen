@@ -1,0 +1,100 @@
+.t2{
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    margin: auto;
+    padding: 0;
+    border-radius: none;
+    height: 100%;
+}
+.sta{
+  color: #000;
+  margin-left: 50px;
+  position: fixed;
+  margin-top: 380px;
+  font-size: 20px;
+  font-weight: none;
+}
+
+.T {
+    border: 2px solid #000;
+    border-radius: none;
+    width: 1150px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 410px;
+    position: relative;
+}
+.T td{
+    border-bottom:none;
+  }
+  
+  table {
+      width: 1195px;
+      border-collapse: collapse;
+      border-color: #fff;
+    }
+    
+    thead {
+      background-color: #fff;
+    }
+    
+    th {
+      text-align: left;
+      border-bottom: 2px dashed #000;
+      padding: 10px;
+      color: #000;
+    }
+.filtre{
+    background-color: #FFB800;
+    color: #fff;
+    width: 200px;
+    margin-top: -450px;
+    margin-left: 1200px;
+    position: relative;
+    display: flex;
+    border-radius: 10px;
+    border-color: #FFB800;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 70px;
+    height: 50px;
+}
+
+.clicked .one{
+    width: 320px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin: -200px 50px;
+    position: fixed;
+}
+
+.clicked .two{
+    width: 320px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin: -80px 50px;
+    position: fixed;
+}
+
+.clicked .three{
+    width: 320px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin: -200px 600px;
+    position: fixed;
+}
+
+.t2 span{
+    color: #000;
+    font-size: 30px;
+    font-weight: bold;
+    position: fixed;
+    display: flex;
+    margin: 10px 50px;
+}
+
+

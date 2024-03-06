@@ -1,0 +1,56 @@
+.div{
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    margin: auto;
+    padding: 0;
+    border-radius: none;
+    height: 100%;
+}
+
+.div h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+    margin-top: 20px;
+    margin-left: 650px;
+}
+.A {
+    border: 2px solid #000;
+    border-radius: none;
+    width: 1390px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 150px;
+    position: relative;
+}
+.A td{
+    border-bottom:none;
+  }
+  
+.A table {
+      width: 1435px;
+      border-collapse: collapse;
+      border-color: #fff;
+    }
+    
+    thead {
+      background-color: #fff;
+    }
+    
+    th {
+      text-align: left;
+      border-bottom: 2px dashed #000;
+      padding: 10px;
+      color: #000;
+    }
+
+.flêche{
+    color: #000;
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: -695px;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+}

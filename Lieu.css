@@ -1,0 +1,74 @@
+
+
+.lieu{
+   background-color: #fff;
+    height: 600px;
+    display: flex;
+    width: 1200px;
+    position: relative;
+    margin-left: 140px;
+    margin-top: 70px;
+}
+
+img{
+    width: 900px;
+    height: 600px;
+    margin-left: 0px;
+}
+
+.map{
+    color: #FF0000;
+    margin-left: -380px;
+    font-size: 30px;
+    margin-top: 470px;
+}
+
+.cancel{
+    background-color: #FF0000;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 1090px;
+    margin-top: -90px;
+    display: flex;
+    position: relative;
+    width: 220px;
+    cursor: pointer;
+    height: 60px;
+    border-color: #FF0000;
+    border-radius: 5px;
+    padding: 15px 65px;
+}
+
+.search-container {
+    position: relative;
+    border-radius: 10px; 
+    display: flex;
+    align-items: center;
+    padding: 5px 20px; 
+}
+
+.search-input {
+    margin-top: -500px;
+    flex-grow: 1;
+    border: none;
+    background-color: #D9D9D9;
+    width: 400px;
+    height: 8px;
+    opacity: 80%;
+    padding: 20px;
+    margin-left: -150px; 
+    border-radius: 15px; 
+    font-size: 16px; 
+  }
+  
+  
+  .search-icon {
+    color: #000; 
+    cursor: pointer;
+    margin-left: -30px;
+    margin-top: -500px;
+    font-size: 20px;
+  }
+  
+  
